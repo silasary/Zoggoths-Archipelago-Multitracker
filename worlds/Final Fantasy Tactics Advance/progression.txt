@@ -496,3 +496,41 @@ Hunt: progression
 Charge: progression
 Time Magic: progression
 Roulette Trap: trap
+Job Unlock:Illusionist: useful
+Job Unlock:Summoner: useful
+Job Unlock:Gladiator: useful
+Ability:Cuisine: useful
+Job Unlock:Dragoon: useful
+Job Unlock:Fighter: useful
+Job Unlock:Warrior: useful
+Job Unlock:Archer: useful
+Job Unlock:Red Mage: useful
+Job Unlock:Gunner: useful
+Job Unlock:White Monk: useful
+Job Unlock:Fencer: useful
+Ability:Sheep Count: useful
+Job Unlock:Hunter: useful
+Job Unlock:Paladin: useful
+Job Unlock:White Mage: useful
+Job Unlock:Time Mage: useful
+Ability:Tail Wag: useful
+Job Unlock:Ninja: useful
+Job Unlock:Mog Knight: useful
+Job Unlock:Elementalist: useful
+Job Unlock:Morpher: useful
+Job Unlock:Juggler: useful
+Job Unlock:Thief: useful
+Job Unlock:Templar: useful
+Job Unlock:Animist: useful
+Job Unlock:Sniper: useful
+Job Unlock:Bishop: useful
+Job Unlock:Soldier: useful
+Job Unlock:Gadgeteer: useful
+Job Unlock:Sage: useful
+Job Unlock:Beastmaster: useful
+Job Unlock:Black Mage: useful
+Ability:100% Wool: useful
+Job Unlock:Blue Mage: useful
+Job Unlock:Defender: useful
+Job Unlock:Alchemist: useful
+Job Unlock:Assassin: useful
