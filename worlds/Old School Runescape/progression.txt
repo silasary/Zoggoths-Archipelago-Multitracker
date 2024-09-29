@@ -33,3 +33,32 @@ Progressive Tools: useful
 Progressive Ranged Weapons: useful
 Progressive Ranged Armor: useful
 Progressive Magic: useful
+Area:Central Varrock: progression
+Area:Edgeville: progression
+Area:Mudskipper Point: progression
+Area:Crafting Guild: progression
+Area:Dwarven Mines: progression
+Area:Wilderness: progression
+Area:Monastery: progression
+Area:West Varrock: progression
+Area:Lumbridge Swamp: progression
+Area:Draynor Manor: progression
+Area:Ice Mountain: progression
+Area:Lumbridge: progression
+Area:Karamja: progression
+Area:East Varrock: progression
+Area:Corsair Cove: progression
+Area:Crandor: progression
+Area:Falador Farms: progression
+Area:Rimmington: progression
+Area:Draynor Village: progression
+Area:Al Kharid: progression
+Area:South of Varrock: progression
+Area:Falador: progression
+Area:Barbarian Village: progression
+Area:Citharede Abbey: progression
+Area:Lumbridge Farms: progression
+Area:Varrock Palace: progression
+Area:HAM Hideout: progression
+Area:Port Sarim: progression
+Area:Wizard Tower: progression
