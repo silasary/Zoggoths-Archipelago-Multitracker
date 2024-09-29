@@ -92,3 +92,27 @@ Witchyworld: progression
 Wing Whack: progression
 Wonderwing: progression
 Yellow Jinjo: progression
+Mumbo:Rain Dance: progression
+TDL:Train Station: progression
+Humba:Stony: progression
+Mumbo:Heal: progression
+WW:Train Station: progression
+Humba:Bee: progression
+Humba:Detonator: progression
+Humba:Snowball: progression
+Humba:Money Van: progression
+Mumbo:Enlarge: progression
+Mumbo:Oxygenate: progression
+Mumbo:Golden Goliath: progression
+Mumbo:Levitate: progression
+HFP:Icy Side Train Station: progression
+Mumbo:EMP: progression
+HFP:Lava Side Train Station: progression
+Humba:Dragon: progression
+Humba:Washing Machine: progression
+Humba:T-Rex: progression
+Mumbo:Power: progression
+Mumbo:Life Force: progression
+Humba:Sub: progression
+GI:Train Station: progression
+IoH:Train Station: progression
