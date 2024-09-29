@@ -49,3 +49,9 @@ Live Freemium or Die: Coin Piece: progression
 Zombie Sheep: trap
 Temporary Spike: trap
 Loading Screen: trap
+Live Freemium or Die:Coin Piece: progression
+DLC Quest:Coin Piece: progression
+Live Freemium or Die:Progressive Weapon: progression
+Live Freemium or Die:Coin Bundle: progression
+DLC Quest:Progressive Weapon: progression
+DLC Quest:Coin Bundle: progression
