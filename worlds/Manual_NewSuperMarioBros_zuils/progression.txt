@@ -1,0 +1,6 @@
+World 8 Key: progression
+W1 Cannon Unlock: progression
+World 4 Key: progression
+Coin: filler
+World 2 Key: progression
+Star Coin: progression
