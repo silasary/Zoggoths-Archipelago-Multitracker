@@ -42,3 +42,9 @@ progressive-weapon-shooting-speed: useful
 progressive-worker-robots-speed: useful
 progressive-worker-robots-storage: useful
 robotics: useful
+rocket-fuel: progression
+lubricant: progression
+progressive-vehicle: useful
+low-density-structure: progression
+fluid-handling: progression
+cliff-explosives: useful
