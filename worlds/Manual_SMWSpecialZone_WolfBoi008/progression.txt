@@ -1,0 +1,11 @@
+P-Switch: progression
+Coins: filler
+Climb: progression
+Stun Trap: trap
+Death Trap: trap
+Carry: progression
+Mustard Blocks: progression
+Swim: progression
+Yoshi: progression
+Super Star: progression
+Progressive Powerup: progression
