@@ -1,0 +1,7 @@
+ID Card: filler
+Opa-Opa: progression
+JJ: progression
+Scope: useful
+Bread: filler
+Floppy Disk: useful
+Zillion: useful
