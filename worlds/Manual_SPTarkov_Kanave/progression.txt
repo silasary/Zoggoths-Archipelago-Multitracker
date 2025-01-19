@@ -1,0 +1,5 @@
+AK-12: filler
+SA-58: filler
+Mosin Infantry: filler
+Flea Food: useful
+Woods Access: progression
