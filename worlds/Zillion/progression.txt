@@ -1,5 +1,5 @@
 ID Card: filler
-Floppy Disk: progression
+Floppy Disk: mcguffin
 Zillion: progression
 Scope: useful
 Bread: filler
