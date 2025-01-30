@@ -1,6 +1,6 @@
 ID Card: filler
 Floppy Disk: progression
-Zillion: useful
+Zillion: progression
 Scope: useful
 Bread: filler
 JJ: progression
