@@ -1,5 +1,5 @@
 ID Card: filler
-Floppy Disk: useful
+Floppy Disk: progression
 Zillion: useful
 Scope: useful
 Bread: filler
