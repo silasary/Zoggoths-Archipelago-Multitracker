@@ -51,7 +51,7 @@ Short Cake: useful
 Gola's Nail: progression
 Gola's Horn: progression
 Gola's Fang: progression
-Life Stock: filler
+Life Stock: progression
 No Item: filler
 1 Gold: filler
 20 Golds: filler
