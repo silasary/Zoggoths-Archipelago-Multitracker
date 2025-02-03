@@ -119,3 +119,11 @@ Boiled Egg: filler
 Stun Gun: filler
 Coin of Defense: filler
 Vial of Serum: filler
+Big Bottle Rocket: useful
+Protractor: filler
+Teddy Bear: filler
+Can of Fruit Juice: filler
+Bottle of Water: filler
+Plain Yogurt: filler
+Tin of Cocoa: filler
+Sudden Guts Pill: filler

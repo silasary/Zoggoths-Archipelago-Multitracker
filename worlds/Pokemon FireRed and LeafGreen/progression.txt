@@ -257,3 +257,5 @@ Mystic Ticket: progression
 Wood Mail: filler
 Blue Shard: filler
 Petaya Berry: filler
+Dream Mail: filler
+Soothe Bell: useful

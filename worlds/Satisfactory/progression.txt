@@ -158,3 +158,5 @@ Building: Conveyor Splitter: progression
 Bundle: Wood: filler
 Bundle: Electromagnetic Control Rod: filler
 Recipe: Aluminum Casing: progression
+Recipe: Sulfuric Acid: progression
+Recipe: Petroleum Coke: progression

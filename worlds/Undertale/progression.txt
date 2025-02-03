@@ -91,3 +91,5 @@ Waterfall Population Pack: progression
 Hotland Population Pack: progression
 Ice Trap: trap
 Snowdin Population Pack: progression
+Snowdin Spare: progression
+Jump: progression

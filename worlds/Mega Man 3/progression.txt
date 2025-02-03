@@ -4,3 +4,6 @@ Weapon Energy (L): filler
 1-Up: filler
 Doc Robot (Spark) Access Codes: progression
 Magnet Man Access Codes: progression
+E-Tank: useful
+Hard Knuckle: progression
+Top Man Access Codes: progression

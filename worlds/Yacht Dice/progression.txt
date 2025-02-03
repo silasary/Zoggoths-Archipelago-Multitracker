@@ -46,3 +46,7 @@ Bonus Point: useful
 10 Points: progression
 100 Points: progression
 Victory: progression
+Category 16x Ones: progression
+Category 15x Ones: progression
+Category 5x Ones: progression
+Category 12x Ones: progression
